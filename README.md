@@ -16,4 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="left">Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,react,tailwind,mui&theme=dark)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,react,tailwind,muip&theme=light)](https://skillicons.dev#gh-dark-mode-only)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,react,tailwind,mui&theme=dark)](https://skillicons.dev#gh-light-mode-only)
+
+<a href="https://app.daily.dev/1ndypoland2"><img src="https://api.daily.dev/devcards/v2/Z36qaBGUl5vUQqVTt6x2F.png?type=wide&r=mx2" width="652" alt="1ndypoland's Dev Card"/></a>
