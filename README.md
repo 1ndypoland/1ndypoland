@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 ✨
 
 <!--
 **1ndypoland/1ndypoland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="left">Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,react,tailwind,muip&theme=light)](https://skillicons.dev#gh-dark-mode-only)
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,react,tailwind,mui&theme=dark)](https://skillicons.dev#gh-light-mode-only)
