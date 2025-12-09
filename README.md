@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,node,express,react,tailwind,muip&theme=light)](https://skillicons.dev#gh-dark-mode-only)
-[![My Skills](https://skillicons.dev/icons?i=js,ts,node,express,react,tailwind,mui&theme=dark)](https://skillicons.dev#gh-light-mode-only)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,react&theme=light)](https://skillicons.dev#gh-dark-mode-only)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,react&theme=dark)](https://skillicons.dev#gh-light-mode-only)
